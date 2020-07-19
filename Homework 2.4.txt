@@ -1,0 +1,10 @@
+1.Why do you want to minimize explicit and implicit calls to findViewById()?
+-findViewById() runs on the main or UI thread.
+2.How would you describe data binding?For example, here are some things you could say about data binding:
+-The big idea about data binding is to create an object that connects/maps/binds two pieces of distant information together at compile time, so that you don't have to look for the data at runtime.
+3.Which of the following is NOT a benefit of data binding?
+-The Android system only traverses the view hierarchy once to get each view.
+4.What is the function of the <layout> tag?
+-You can use the <data> tag in inside a <layout> to bind a variable to a data class.
+5.Which is the correct way to reference bound data in the XML layout?
+-android:text="@={myDataClass}"
