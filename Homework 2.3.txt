@@ -1,0 +1,10 @@
+1.In a constraint layout, which of the following choices describes the constraints needed to keep a view in place during runtime?
+-
+2.Which of the following constraint types expands a view only as much as needed to fit its contents?
+-
+3.The baseline constraint aligns the text baseline of a view to the text baseline of another view. True or false?
+-
+4.The view inspector is available only for views in _______ .
+-
+5.A chain is a group of views that are linked to each other with ________ .
+-
